@@ -6,3 +6,6 @@ data/
 
 # Environments
 .env
+
+# Random Stuff
+debug.log
